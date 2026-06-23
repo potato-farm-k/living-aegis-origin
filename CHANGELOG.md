@@ -6,6 +6,10 @@ Living Aegis Origin의 주요 변경 사항을 이 파일에 기록한다.
 
 - 이후 변경 사항은 release 단위로 묶기 전에 여기에 기록한다.
 
+### Added
+
+- Codex 반복 작업 지침을 담은 `AGENTS.md` 추가
+
 ## 2026-06-23
 
 ### Added
