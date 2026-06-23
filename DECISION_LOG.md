@@ -1,24 +1,37 @@
-# Decision Log
+# 결정 기록
 
-## 2026-06-23 - Use This Repository for the Main Game
+## 2026-06-23 - 이 저장소를 메인 게임 프로젝트로 사용
 
-Decision: `living-aegis-origin` is the main game repository.
+결정: `living-aegis-origin`은 Living Aegis Origin의 메인 게임 저장소이다.
 
-Reason: The main game needs a stable starting point with a clear file structure and a static entry page. Keeping this repository focused reduces confusion during future iterations.
+이유: 메인 게임에는 명확한 파일 구조와 정적 진입 페이지를 가진 안정적인 시작점이 필요하다. 이 저장소의 역할을 좁게 유지하면 이후 반복 작업에서 혼선을 줄일 수 있다.
 
-## 2026-06-23 - Keep Prototype and Simulator Work Separate
+## 2026-06-23 - prototype과 simulator 작업을 분리
 
-Decision: Prototype and simulator experiments belong in separate repositories.
+결정: prototype 실험과 simulator 작업은 별도 저장소에서 관리한다.
 
-Reason: Experimental work can move quickly and change direction often. Keeping it outside the main game repository protects the main project from accidental scope growth and unrelated implementation details.
+이유: 실험 작업은 빠르게 바뀌고 방향이 자주 달라질 수 있다. 이를 메인 게임 저장소 밖에 두면 불필요한 범위 확장과 관련 없는 구현 세부 사항으로부터 메인 프로젝트를 보호할 수 있다.
 
-Related repositories:
+관련 저장소:
 
 - `living-aegis-prototype`
 - `living-aegis-simulator`
 
-## 2026-06-23 - Start with GitHub Pages and Canvas 2D
+## 2026-06-23 - GitHub Pages와 Canvas 2D로 시작
 
-Decision: Begin with static HTML, CSS, JavaScript, and Canvas 2D.
+결정: 정적 HTML, CSS, JavaScript, Canvas 2D로 시작한다.
 
-Reason: This keeps the project easy to open locally, easy to publish with GitHub Pages, and free of build tools or external dependencies during the initial scaffold.
+이유: 초기 scaffold 단계에서는 로컬에서 쉽게 열 수 있고, GitHub Pages로 쉽게 배포할 수 있으며, build tool이나 외부 의존성 없이 유지하는 것이 좋다.
+
+## 2026-06-23 - 내부 설명 문서는 한국어 중심으로 작성
+
+결정: 내부 설명 문서는 한국어 중심으로 작성한다.
+
+이유: 이 프로젝트는 개인 학습과 반복 참고가 중요하므로, README와 상태 문서처럼 자주 읽는 설명 문서는 한국어로 정리하는 편이 유지 관리에 좋다.
+
+세부 원칙:
+
+- 파일명, 폴더명, 코드 식별자, 주요 기술 용어는 영어를 유지한다.
+- HTML, CSS, JavaScript 코드와 변수명, 함수명, class 이름, id 이름은 변경하지 않는다.
+- `Canvas 2D`, `GitHub Pages`, `JavaScript`, `HUD`, `prototype`, `simulator`처럼 필요한 기술 용어는 영어 표기를 허용한다.
+- 프로젝트 제목과 저장소 이름은 영어를 유지한다.

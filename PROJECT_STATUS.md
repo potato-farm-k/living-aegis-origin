@@ -1,29 +1,30 @@
-# Project Status
+# 프로젝트 상태
 
-Date: 2026-06-23
+기준일: 2026-06-23
 
-## Current Stage
+## 현재 단계
 
-Initial main game scaffold.
+메인 게임의 초기 scaffold 단계이다.
 
-## Completed
+## 완료된 내용
 
-- GitHub Pages-compatible `index.html` entry point.
-- Linked `style.css` and `script.js`.
-- Canvas 2D initialization placeholder.
-- Base project documentation.
-- Asset folders for images, audio, and reference material.
+- GitHub Pages와 호환되는 `index.html` 진입점 추가
+- `style.css`와 `script.js` 연결
+- Canvas 2D 초기화 placeholder 추가
+- 기본 프로젝트 문서 추가
+- 이후 이미지, 오디오, reference 자료를 넣기 위한 asset 폴더 준비
 
-## Current Scope
+## 현재 범위
 
-- Main game repository only.
-- Static HTML, CSS, JavaScript, and Canvas 2D.
-- No gameplay systems implemented yet.
+- 이 저장소는 Living Aegis Origin의 메인 게임 프로젝트이다.
+- 현재 범위는 정적 HTML, CSS, JavaScript, Canvas 2D 기반이다.
+- 아직 gameplay system은 구현하지 않았다.
+- prototype 실험은 `living-aegis-prototype`에서 관리한다.
+- simulator는 `living-aegis-simulator`에서 관리한다.
 
-## Before Next Work
+## 다음 작업 전 확인할 것
 
-- Confirm `index.html` renders correctly in a browser.
-- Confirm the browser console prints the Canvas initialization logs.
-- Keep prototype experiments in `living-aegis-prototype`.
-- Keep simulator experiments in `living-aegis-simulator`.
-- Define the next small feature before implementation begins.
+- 브라우저에서 `index.html`이 정상적으로 표시되는지 확인한다.
+- 브라우저 console에 Canvas 초기화 log가 출력되는지 확인한다.
+- 다음 구현에 들어가기 전에 작은 기능 단위를 먼저 정의한다.
+- 기능 실험은 메인 게임 저장소에 바로 섞지 않고 prototype 저장소에서 먼저 검토한다.
