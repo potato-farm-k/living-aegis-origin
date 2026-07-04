@@ -8,6 +8,9 @@ Living Aegis Origin의 주요 변경 사항을 이 파일에 기록한다.
 
 ### Added
 
+- `docs/GLOSSARY.md`에 Living Aegis Origin Glossary v0.1 추가
+- `docs/direction/SOUND_DIRECTION.md`에 Sound Direction Memo v0.1 추가
+- `docs/art/CONCEPT_ART_PROMPT_PACK.md`에 Concept Art Prompt Pack v0.1 추가
 - Codex 반복 작업 지침을 담은 `AGENTS.md` 추가
 
 ## 2026-06-23

@@ -35,6 +35,12 @@
 
 시뮬레이터는 `living-aegis-simulator`에서 관리한다.
 
+## 기준 문서
+
+- [Living Aegis Origin Glossary v0.1](docs/GLOSSARY.md)
+- [Living Aegis Origin Sound Direction Memo v0.1](docs/direction/SOUND_DIRECTION.md)
+- [Living Aegis Origin Concept Art Prompt Pack v0.1](docs/art/CONCEPT_ART_PROMPT_PACK.md)
+
 ## 문서 언어 원칙
 
 내부 설명 문서는 한국어 중심으로 작성한다. 파일명, 폴더명, 코드 식별자, 주요 기술 용어는 영어를 유지한다.

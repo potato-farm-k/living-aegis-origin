@@ -1,5 +1,17 @@
 # 결정 기록
 
+## 2026-07-04 - 프로젝트 공통 참고 문서를 origin 저장소에서 관리
+
+결정: Living Aegis Origin의 용어, 사운드 방향, concept art prompt 기준 문서를 `living-aegis-origin` 저장소의 공식 원본 후보로 관리한다.
+
+추가한 문서:
+
+- `docs/GLOSSARY.md`
+- `docs/direction/SOUND_DIRECTION.md`
+- `docs/art/CONCEPT_ART_PROMPT_PACK.md`
+
+이유: 역할별 작업에서 반복 참조할 프로젝트 공통 기준을 origin 저장소에 먼저 유지하고, 이후 필요할 때 `project-reading-room`에 reading copy로 반영하기 위해서이다.
+
 ## 2026-06-23 - 이 저장소를 메인 게임 프로젝트로 사용
 
 결정: `living-aegis-origin`은 Living Aegis Origin의 메인 게임 저장소이다.
