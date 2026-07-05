@@ -1,5 +1,13 @@
 # 결정 기록
 
+## 2026-07-05 - 통합 GDD v0.20을 프로젝트 기준 문서로 저장
+
+결정: `Living Aegis Origin GDD v0.20`을 `docs/GDD.md`에 통합 참고 문서로 저장한다.
+
+이 문서는 Project Manager, Game Designer, Creative Director, Art Director, Simulation Director, Codex Director의 보강 내용을 통합하며, 현재 기획 방향과 역할별 기준을 반복 참조하기 위한 원본 문서로 관리한다.
+
+이유: Living Aegis Origin의 현재 설계 판단을 origin 저장소에서 일관되게 유지하고, 이후 필요할 때 `project-reading-room`에 reading copy로 반영할 수 있도록 하기 위해서이다.
+
 ## 2026-07-04 - 프로젝트 공통 참고 문서를 origin 저장소에서 관리
 
 결정: Living Aegis Origin의 용어, 사운드 방향, concept art prompt 기준 문서를 `living-aegis-origin` 저장소의 공식 원본 후보로 관리한다.

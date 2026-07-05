@@ -37,6 +37,7 @@
 
 ## 기준 문서
 
+- [Living Aegis Origin GDD v0.20](docs/GDD.md)
 - [Living Aegis Origin Glossary v0.1](docs/GLOSSARY.md)
 - [Living Aegis Origin Sound Direction Memo v0.1](docs/direction/SOUND_DIRECTION.md)
 - [Living Aegis Origin Concept Art Prompt Pack v0.1](docs/art/CONCEPT_ART_PROMPT_PACK.md)
