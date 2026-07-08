@@ -1,5 +1,17 @@
 # 결정 기록
 
+## 2026-07-08 - Threat Type Classification v0.1
+
+결정: Living Aegis Origin의 위협 유형은 현재 Missile-type Threat, Beam/Charge-type Threat, Mass/Object-type Threat의 3계열로 분류한다. 이 분류는 최종 enemy taxonomy가 아니라 prototype과 simulator 개발을 위한 working draft다.
+
+현재 우선순위:
+
+- Missile-type Threat: P0 / main threat
+- Beam/Charge-type Threat: P1 / pre-fire intercept variation
+- Mass/Object-type Threat: P2 / heavy special threat
+
+이유: Missile-type Threat이 "지구 방향에서 다가오는 위협을 감지하고 요격한다"는 LAO의 핵심 경험과 가장 잘 맞는다. Beam/Charge-type Threat은 발사 전 충전 또는 조준 source를 차단하는 방식으로 광속 공격의 발사 후 대응 문제를 피할 수 있다. Mass/Object-type Threat은 느리고 무거운 압박을 만들 수 있지만 정면 돌진감을 약화할 수 있으므로 특수 변주로 둔다.
+
 ## 2026-07-05 - 통합 GDD v0.20을 프로젝트 기준 문서로 저장
 
 결정: `Living Aegis Origin GDD v0.20`을 `docs/GDD.md`에 통합 참고 문서로 저장한다.

@@ -14,6 +14,11 @@ Living Aegis Origin의 주요 변경 사항을 이 파일에 기록한다.
 - `docs/art/CONCEPT_ART_PROMPT_PACK.md`에 Concept Art Prompt Pack v0.1 추가
 - Codex 반복 작업 지침을 담은 `AGENTS.md` 추가
 
+### Changed
+
+- `docs/GDD.md`에 Threat Type Draft v0.1과 Missile-type P0, Beam/Charge-type P1, Mass/Object-type P2 우선순위 추가
+- `AGENTS.md`에 세 Living Aegis 저장소의 공통 문서 업데이트 원칙 추가
+
 ## 2026-06-23
 
 ### Added
