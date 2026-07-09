@@ -17,6 +17,7 @@ Living Aegis Origin의 주요 변경 사항을 이 파일에 기록한다.
 ### Changed
 
 - `docs/GDD.md`에 Threat Type Draft v0.1과 Missile-type P0, Beam/Charge-type P1, Mass/Object-type P2 우선순위 추가
+- `docs/GDD.md`, `docs/GLOSSARY.md`, `DECISION_LOG.md`, `docs/findings/SIMULATION_FINDINGS.md`에 P0 Missile-type visibility / approach model 단순화 기준 추가
 - `AGENTS.md`에 세 Living Aegis 저장소의 공통 문서 업데이트 원칙 추가
 
 ## 2026-06-23
